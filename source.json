@@ -5,7 +5,6 @@
     "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "website": "https://github.com/Michael-128",
-    "patreonURL": "https://www.patreon.com/michael128",
     "tintColor": "#449FFF",
     "featuredApps": [
         "MikeMichael225.qBitControl"
@@ -59,9 +58,7 @@
                     }
                 ]
             },
-            "patreon": {
-                "pledge": 2
-            }
+            "patreon": { }
         }
     ],
     "news": []
